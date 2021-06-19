@@ -2,6 +2,8 @@
 
 Quiet Kitty theme
 
+![](./kitty.png)
+
 ## Installation
 
 Drop `quiet.conf` into your kitty configuration directory
